@@ -17,8 +17,21 @@ Welcome to my comprehensive Java learning journey! This repository contains my p
 - **[JDBC](./JDBC/)** - Database connectivity and operations
 
 ### Data Structures & Algorithms
-- **[Data-Structures](./Data-Structures/)** - LinkedList, Stack, Queue, Trees, Graphs
-- **[Algorithms](./Algorithms/)** - Sorting, Searching, Dynamic Programming, Recursion
+- **[Data-Structures](./Data-Structures/)** - LinkedList, Stack, Queue, Trees, Graphs, Hash Tables, Heaps
+- **[Algorithms](./Algorithms/)** - Sorting, Searching, Dynamic Programming, Graph Algorithms
+- **[Recursion](./Recursion/)** - Recursive thinking, backtracking, divide & conquer
+- **[Math-Algorithms](./Math-Algorithms/)** - Number theory, mathematical computations
+- **[Bit-Manipulation](./Bit-Manipulation/)** - Bitwise operations, bit tricks, optimization
+
+### Advanced Java Topics
+- **[Generics](./Generics/)** - Generic programming, type safety, wildcards
+- **[Streams-API](./Streams-API/)** - Java 8+ streams, functional programming
+- **[Lambda-Expressions](./Lambda-Expressions/)** - Lambda expressions, method references
+- **[System-Design](./System-Design/)** - Basic system design patterns in Java
+
+### Practice & Problem Solving
+- **[Practice-Problems](./Practice-Problems/)** - Coding challenges, interview questions, algorithmic puzzles
+- **[Design-Patterns](./Design-Patterns/)** - Common design patterns, software architecture
 
 ## 🎯 Learning Objectives
 
